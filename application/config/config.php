@@ -23,8 +23,8 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 | a PHP script and you can easily do that on your own.
 |
 */
-$config['base_url'] = 'http://localhost/mercadopagovintage/';
-//$config['base_url'] = 'https://doritienda-mp.herokuapp.com/';
+//$config['base_url'] = 'http://localhost/mercadopagovintage/';
+ $config['base_url'] = 'https://tiendavintage.herokuapp.com/';
 
 
 /*
