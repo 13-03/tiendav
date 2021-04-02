@@ -82,8 +82,8 @@ class Productos extends CI_Controller
 		$personal_e_reference = 'naama230695@gmail.com';
 		$preference -> external_reference = $personal_e_reference;
 		$preference -> auto_return = 'approved';
-		//$preference -> notification_url = 'https://tiendavintage.herokuapp.com/index.php/apimp/notification';
-		$preference -> notification_url = 'https://hookb.in/YV77dro8Xjco77ym38Dq';
+		$preference -> notification_url = 'https://tiendavintage.herokuapp.com/index.php/apimp/notification';
+		//$preference -> notification_url = 'https://hookb.in/YV77dro8Xjco77ym38Dq';
 
         //Info about the payment for the exam client
 		$preference->payment_methods = array(
